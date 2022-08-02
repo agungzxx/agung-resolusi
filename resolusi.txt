@@ -3,3 +3,5 @@ AGUNG RESOLUSI
 -contoh 2
 -contoh 3
 -contoh 4
+-contoh 5
+-contoh 6
