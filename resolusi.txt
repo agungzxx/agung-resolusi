@@ -1,6 +1,9 @@
 AGUNG RESOLUSI
 -contoh 1
 -contoh 2
--contoh 3
 -contoh 4
 -contoh 6
+Ini akan masuk branch
+test 1
+test 2
+test 3
